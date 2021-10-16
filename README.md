@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dipti
 - 👀 I’m interested in FullStack Development 
-- 🌱 I’m currently learning javascript , linux, dataStructure, html , css
-- 💞️ I’m looking to collaborate on coding
+- 🌱 I’m currently learning Javascript , React ,Redux,ReactNative, DataStructure, 
+- 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me https://www.linkedin.com/in/dipti-yadav-2021/
 
 <!---
