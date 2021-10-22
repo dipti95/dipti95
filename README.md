@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Development 
 - 🌱 I’m currently learning Javascript , React ,Redux,ReactNative, DataStructure, 
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me https://www.linkedin.com/in/dipti-yadav-2021/
+- 📫 How to reach me www.linkedin.com/in/dipti-yadav
 
 <!---
 dipti95/dipti95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
