@@ -16,6 +16,8 @@
 - [Pawty City](https://pawty-city.herokuapp.com/) | [GitHub Repo](https://github.com/Oshawott-Action-Team/Grace-Shopper) | A web application features an e-commerce site selling dog's costume - Group project at Fullstack Academy.
   - Designed and developed in JavaScript using the PERN stack. Simulating the online shopping experience where user, either registered or guest, can browse products, add items to cart and checkout to place their orders.
 
+---
+
 ### 📖 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
