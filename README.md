@@ -10,7 +10,7 @@
 
 ### 🏗️ Recent Projects
 
-- [CrossWars](https://crosswar.herokuapp.com/) | [GitHub Repo](https://github.com/Cross-Wars/Cross-Wars-v2) | CrossWars is real-time multiplayer online competitive crossword-solving game.Maximum four players can join a lobby and solve a puzzle together, earning points and revealing letters on the board each time they guess a word correctly. With over 2,000 crosswords of varying difficulty to choose from, there's always more to solve.
+- [CrossWars](https://crosswar.herokuapp.com/) | [GitHub Repo](https://github.com/Cross-Wars/Cross-Wars-v2) | CrossWars is real-time multiplayer online competitive crossword-solving game.Maximum four players can join a lobby and solve a puzzle together, earning points and revealing letters on the board each time they guess a word correctly.With over 2,000 crosswords of varying difficulty to choose from, there's always more to solve.
 
 - [Pawty City](https://pawty-city.herokuapp.com/) | [GitHub Repo](https://github.com/Oshawott-Action-Team/Grace-Shopper) | A web application features an e-commerce site selling dog's costume - Group project at Fullstack Academy.Designed and developed in JavaScript using the PERN stack. Simulating the online shopping experience where user, either registered or guest, can browse products, add items to cart and checkout to place their orders.
 
