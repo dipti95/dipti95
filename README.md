@@ -16,7 +16,7 @@
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipti95&langs_count=10&layout=compact&custom_title=My%20Top%20Languages&bg_color=10,FFFFFF,CACAFF)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipti95&langs_count=10&layout=compact&custom_title=My%20Top%20Languages&bg_color=10,FFFFFF,CACAFF)
 
 ---
 
