@@ -11,6 +11,11 @@
 ### 🏗️ Recent Projects
 
 - [CrossWars](https://crosswar.herokuapp.com/) | [GitHub Repo](https://github.com/Cross-Wars/Cross-Wars-v2) | CrossWars is real-time multiplayer online competitive crossword-solving game.Maximum four players can join a lobby and solve a puzzle together, earning points and revealing letters on the board each time they guess a word correctly.With over 2,000 crosswords of varying difficulty to choose from, there's always more to solve.
+  
+- iOS Application| [GitHub Repo](https://github.com/dipti95/iOS_Capstone) | Developed 'VelvetVibe', a comprehensive e-commerce iOS app with Xcode 17.0, featuring a versatile UI compatible with all orientations and themes, optimized for a seamless experience across all iPhone sizes and types.
+Significantly improved test coverage for iOS applications, achieving over 60% code coverage, which led to a marked enhancement in app stability.
+Developed an engaging user journey with an onboarding screen, custom app icon, integrated two SwiftUI animations to enhance user interaction.
+Maintained a clean and organized codebase in compliance with SwiftLint guidelines, ensuring a smooth and error-free build process
 
 - [Pawty City](https://pawty-city.herokuapp.com/) | [GitHub Repo](https://github.com/Oshawott-Action-Team/Grace-Shopper) | A web application features an e-commerce site selling dog's costume - Group project at Fullstack Academy.Designed and developed in JavaScript using the PERN stack. Simulating the online shopping experience where user, either registered or guest, can browse products, add items to cart and checkout to place their orders.
 
