@@ -1,4 +1,4 @@
-### Fullstack/iOS Developer
+### iOS Developer/ Fullstack
 
 - 👋 Hi, I’m Dipti
 - 🌱 I’m currently learning Mobile Development(ReactNative, Swift)
