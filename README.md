@@ -1,4 +1,4 @@
-### Fullstack & Blockchain Developer
+### Fullstack/iOS Developer
 
 - 👋 Hi, I’m Dipti
 - 🌱 I’m currently learning Mobile Development(ReactNative, Swift)
