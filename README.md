@@ -3,9 +3,6 @@
 - 👋 Hi, I’m Dipti
 - 🌱 I’m currently learning Mobile Development(ReactNative, Swift)
 - 💞️ I have expertise in Javascript, TypeScript, Golang, React, Redux, Devops, DataStructure, Algorithms, Microservices, Serverless, Kubernetes, Cloud Native Development.
-
-[![LinkedIn](https://user-images.githubusercontent.com/7027300/164305134-9c3018ac-b6ea-47fd-a4af-d93f8c90c0d9.png)](https://www.linkedin.com/in/dipti-yadav/)
-
 ---
 
 ### 🏗️ Recent Projects
